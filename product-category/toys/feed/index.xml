@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Electronics &#8211; scrapup</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Dont waste your scrap</description>
+	<lastBuildDate>Sun, 23 Oct 2022 19:02:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>iPhone dock</title>
+		<link>./../../../product/iphone-dock/index.html</link>
+					<comments>./../../../product/iphone-dock/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[addy]]></dc:creator>
+		<pubDate>Wed, 14 Jun 2017 08:50:29 +0000</pubDate>
+				<guid isPermaLink="false">http://dummy.xtemos.com/woodmart/?post_type=product&#038;p=50</guid>
+
+					<description><![CDATA[Consequat a scelerisque suspendisse vel et eget eu vitae adipiscing nibh scelerisque semper cum adipiscing facilisis adipiscing est accumsan lorem vestibulum.]]></description>
+										<content:encoded><![CDATA[<section class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-o-content-top vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 wd-rs-61827d190fb95"><div class="vc_column-inner vc_custom_1635941672263"><div class="wpb_wrapper">			<link rel="stylesheet" id="wd-section-title-css" href="./../../../wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=7.0.3" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mod-highlighted-text-css" href="./../../../wp-content/themes/woodmart/css/parts/mod-highlighted-text.min.css?ver=7.0.3" type="text/css" media="all" /> 			
+		<div id="wd-635e7888bddbf" class="title-wrapper wd-wpb set-mb-s reset-last-child  wd-title-color-default wd-title-style-default text-left  wd-underline-colored">
+			
+			<div class="liner-continer">
+				<h4 class="woodmart-title-container title  wd-font-weight- wd-fontsize-l" >VESTIBULUM TEMPUS METUS</h4>
+							</div>
+			
+			
+			
+		</div>
+		
+				<div id="wd-60f8023823951" class="wd-text-block wd-wpb reset-last-child wd-rs-60f8023823951 text-left vc_custom_1626866236045">
+			<ul class="unordered-list">
+<li>Lorem ipsum dolor sit amet, conse.</li>
+<li>Aliquam tincidunt mauris eu risus.</li>
+<li>Vestibulum <strong><a href="#">auctor dapibus</a></strong> neque.</li>
+<li>Nunc dignissim risus id metus.</li>
+<li>Cras ornare tristique elit.</li>
+<li>Vivamus vestibulum nulla nec ante.</li>
+<li>Praesent placerat risus quis eros.</li>
+<li>Fusce pellentesque suscipit nibh.</li>
+</ul>
+<p>Commodo parturient tincidunt condim entum vestibulum <a href="#"><strong>dolor laoreet</strong></a> eros suspen disse magna torquent ac condi mentum arcu <a href="#"><strong>parturient</strong></a> nec disse magna torquent ac condi mentum arcu parturient nec.</p>
+		</div>
+		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 wd-rs-61827d299d642"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left vc_custom_1626693099952">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="700" height="800" src="./../../../wp-content/uploads/2017/06/iphone-dock-5-1.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="iphone-dock-5" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4 vc_col-xs-12 wd-rs-61827d34da1ef"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left vc_custom_1626693114572">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="700" height="800" src="./../../../wp-content/uploads/2017/06/iphone-dock-6.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" title="iphone-dock-6" /></div>
+		</figure>
+	</div>
+</div></div></div></div>
+</section>]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/iphone-dock/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
